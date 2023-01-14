@@ -4,7 +4,7 @@
 }
 body {
     font-family: trebuchet MS, helvetica, sans-serif;
-    background: #fff url(../Projeto_cidade/imagens/fundo.png) repeat-x;
+    background: #fff url(../imagens/fundo.png) repeat-x;
 }
 
 #container {
@@ -13,13 +13,13 @@ body {
 }
 #topo {
     height: 150px;
-    background: url(../Projeto_cidade/imagens/detalhe-topo.png) no-repeat top right;
+    background: url(../imagens/detalhe-topo.png) no-repeat top right;
     padding-top:25px ;
 }
 .logo {
     width: 152px;
     height: 66px;
-    background: url(../Projeto_cidade/imagens/logo.png) no-repeat center;
+    background: url(../imagens/logo.png) no-repeat center;
     text-indent: -3000px;
 }
 /*Barra de navegação*/
@@ -43,7 +43,7 @@ ul {
     line-height: 2.1em;
     text-decoration: none;
     color: #fff;
-    background: url(../Projeto_cidade/imagens/divisor.png) no-repeat left center;
+    background: url(../imagens/divisor.png) no-repeat left center;
 
 }
 #topo li.primeiro a {
